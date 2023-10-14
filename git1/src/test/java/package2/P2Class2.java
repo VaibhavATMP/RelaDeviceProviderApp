@@ -11,6 +11,9 @@ public class P2Class2
         System.out.println("3.Package 2A Class2A");
         System.out.println("3rd line added P2Class2");
 
+
         System.out.println("Want conflicts in local Branch Class2 ");
+        System.out.println("Conflicts1 master in class2");
+
     }
 }
