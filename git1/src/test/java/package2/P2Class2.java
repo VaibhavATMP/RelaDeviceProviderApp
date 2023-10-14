@@ -11,7 +11,7 @@ public class P2Class2
         System.out.println("3.Package 2A Class2A");
         System.out.println("3rd line added P2Class2");
 
-        System.out.println("4.Package 2A Class2A");
-        System.out.println("4th line added P2Class2");
+        System.out.println("");
+        System.out.println("");
     }
 }
