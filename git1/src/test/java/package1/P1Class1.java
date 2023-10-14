@@ -14,7 +14,7 @@ public class P1Class1
         System.out.println("3.Package 1A Class1A");
         System.out.println("3rd line added in P1Class1");
 
-        System.out.println(" ");
-        System.out.println(" ");
+        System.out.println("Conflicts1 master in class1");
+
     }
 }
